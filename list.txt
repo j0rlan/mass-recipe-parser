@@ -1,0 +1,223 @@
+processing sheets:
+Gluten Free Pizza Dough {'Bag': 1.0}
+Plain Hummus {'c': 0.5}
+Hot Sauce {'Tbsp': 4.0}
+Chickpeas {'oz': 15.0, '15 0z can': 2.0}
+Vegan Mozarell {'cup': 1.5}
+Parsley {'Tbsp': 3.0}
+Pumpkin Puree {'c': 2.5}
+Almond Milk {'c': 0.25, 'cup': 1.5, nan: 1.0}
+Coconut Oil {'Tbsp': 2.0}
+Lemon Juice {'TBsp': 1.0, 'Tbsp': 1.5}
+Agave {'tsp': 1.0}
+Vanilla Extract {'tsp': 4.0, nan: 1.0}
+Eggs {'Eggs': 59.0}
+Oat Flour {'c': 2.75}
+Baking Soda {'tsp': 0.5}
+Salt {'tsp': 1.705, nan: nan}
+Ground Cinnamon {'tsp': 0.5}
+Ground Nutmeg {'tsp': 0.25}
+Green Onion {'stalk': 6.0}
+Celery {'stalk': 4.0}
+Carrot {'Carrot': 4.0, 'c': 2.0}
+Bell Pepper {'c': 0.5}
+Dill Pickle {'Dill Pickle': 12.0}
+Vegan Mayo {'c': 0.5}
+Dijon Mustard {'tsp': 4.0}
+Dried Dill {'tsp': 0.25}
+Fresh Basil {'Tbsp': 4.0}
+Gluten Free Bread {'loaf': 2.0}
+Fritos {'bag': 2.0}
+Grapes {'lbs': 2.0}
+Cashews {'c': 0.33}
+Nutritional Yeast {'Tbsp': 3.0, 'c': 0.25}
+Garlic {'Clove': 1.0, 'Garlic': 1.4875, 'cloves': 4.0, nan: nan, 'clove': 1.0}
+Gluten Free Pasta {'oz': 8.0}
+Brussels {'lbs': 1.0}
+Walnuts {'c': 0.5}
+Oregano {'tsp': 1.0}
+Dried Thyme {'tsp': 0.5}
+CREPES {nan: nan}
+GFAP {'cup': 2.0, 'c': 0.25}
+Xanthum Gum {'tsp': 0.5}
+Granulated Sugar {'Tbsp': 4.0}
+Melted Butter {'Tbsp': 6.0}
+FILLING {nan: nan}
+GFAP Flour {'Tbsp': 3.0}
+Cornstarch {'tsp': 1.0}
+Sugar {'c': 0.5}
+Egg Yolk {nan: 3.0}
+Huckleberries {nan: 1.0}
+cornstarch {nan: 1.0}
+POTATO SALAD {nan: nan}
+yukon gold potato {'lb': 21.25}
+mayonnaise {'c': 12.75}
+sweet pickle relish {'c': 4.25}
+yellow/dijon mustart {'Tbsp': 8.5}
+apple cider vinegr {'Tbsp': 4.25}
+Celery Seeds {'Tbsp': 4.25}
+Paprika {'tsp': 2.125}
+hard boiled eggs {'egg': 21.25}
+celery stalk {'stalk': 12.75}
+sweet onion {'c': 2.125}
+fresh chopped dill {'Tbsp': 4.25}
+S&P {nan: nan}
+MACARONI SALAD {nan: nan}
+elbow macaroni {'c': 17.0}
+red bell pepper {'pepper': 2.125}
+diced celery {'c': 4.25}
+red or green onion {'c': 1.0625}
+silken firm tofu {'c': 4.25}
+dried dill {'Tbsp': 8.5, nan: nan}
+agave {'Tbsp': 13.75, nan: nan}
+sea salt {'tsp': 5.3125}
+black pepper {'tsp': 1.0625}
+garlic powder {'tsp': 5.3125, nan: nan}
+white wine vinegar {'Tbsp': 8.5}
+avocado oil {'Tbsp': 8.5}
+spicy mustart {'Tbsp': 4.25}
+water {nan: nan}
+GRILLED CORN {nan: nan}
+corn {'ear': 17.0}
+salt {'tsp': 4.5, nan: nan}
+olive oil {'tsp': 8.5}
+limes {'lime': 8.5}
+cholula {'tsp': 17.0}
+lime juice {'Tbsp': 4.25, nan: nan}
+smoked paprika {'tsp': 4.25, nan: nan}
+pine nuts {'c': 2.125}
+nutritional yeast {'Tbsp': 8.5}
+VEGAN BBQ {nan: nan}
+burgers {'burger': 17.0}
+brats {'brat': 17.0}
+hamburger buns {'bag': 4.25}
+brat buns {'bag': 2.805}
+ketchup {'bottle': 1.0625}
+mustard {'bottle': 1.0625}
+relish {'jar': 1.0625}
+onion {'onion': 2.125}
+pickle {'jar': 0.53125}
+tomato {'tomato': 2.125}
+EGG BAKE {nan: nan}
+Onions {'Onions': 1.0625}
+Red pepper {'Red pepper': 8.5}
+Mushrooms {'Package': 2.125}
+Tomatoes {'Tomatoes': 8.5}
+Brocoli  {'Brocoli': 1.0625}
+Green Pepper {'Green pepper': 1.0625}
+ROASTED POTATOES {nan: nan}
+Russet Potatoes {'Russet Potatoes': 21.25}
+Rosemary {'Tbsp': 0.85}
+White Rice {'c': 0.0}
+Chili Power {'Tbsp': 0.0}
+Zucchini {'Zucchini': 0.0}
+Red Onion {'Red Onion': 0.0}
+Red Bell Pepper {'Red Bell Pepper': 0.0}
+Button Mushroom {'oz': 0.0}
+Cumin {'tsp': 0.0}
+Oil {'Tbsp': 1.0, 'c': 0.25}
+Flour Tortillas {'Flour Tortillas': 0.0}
+Black Beans {'c': 0.0}
+Daiya {'c': 0.0}
+Cilantro {'bunch': 0.5}
+Savory Crepes {nan: nan}
+Crepe Filling {nan: nan}
+Quorn {'Bag': 1.0}
+Fresh Spinach {'oz': 4.0}
+Quartered Artichoke Hearts {'15 oz can': 1.0}
+Vegetable Broth {nan: nan}
+Sour Cream {nan: nan}
+Cream Cheese {nan: nan}
+Crush Red Pepper {nan: nan}
+Crispy Asparagus {nan: nan}
+Asparagus {nan: nan}
+Butter {nan: nan}
+Grated Parmesan {nan: nan}
+GF Panko Bread crumbs {nan: nan}
+Parsley  {nan: nan}
+Maple Glazed Carrots {nan: nan}
+Carrots multi color {nan: nan}
+Brown Sugar {nan: nan, 'c': 0.25, 'tsp': 2.0, 'Tbsp': 1.0}
+Maple Syrup {nan: nan}
+Pecans {nan: nan}
+Mashed Sweet Potato {'c': 2.0}
+Cinnamon {'tsp': 0.5, nan: nan}
+Baking Powder {'tsp': 2.5}
+almond milk {'c': 2.0}
+rolled oats {'c': 3.0}
+CRUMBLE {nan: nan}
+Salted Butter {'tsp': 2.0}
+chopped pecans {'c': 0.25}
+Peanut Butter {'Tbsp': 3.0}
+Fresh Ginger {'tsp': 0.5}
+Lime  {'Lime': 1.0}
+Soy Sauce {'tsp': 2.0}
+Rice Noodles {'oz': 8.0}
+Red Cabbage {'c': 4.0}
+Green Oninons {'Green Oninons': 4.0}
+Peanutes {'c': 0.5}
+Three Sisters Taco Bar {nan: nan}
+Smoky Tofu Banh Mi {'makes 6 tacos': nan}
+Smoky Tofu: {nan: nan}
+soy sauce {'c': 0.25}
+rice vinegar {'Tbsp': 1.0, nan: 0.33}
+toasted sesame oil {'tsp': 1.0, nan: 0.5}
+liquid smoke {'tsp': 1.0}
+glove garlic (minced) {'clove': 1.0}
+14 oz pack tofu {'pack': 1.0}
+Pickled Veggies: {nan: nan}
+julienned carrot {'c': 0.5}
+julienned cucumber {'c': 0.5}
+julienned red bell pepper {'julienned red bell pepper': 1.0}
+Sriracha Mayo: {nan: nan}
+vegan mayo {nan: nan}
+sriracha {nan: nan}
+Tacos: {nan: nan}
+small tortillas {nan: nan}
+fresh mint leaves {nan: nan}
+fresh basil leaves {nan: nan}
+fresh cilantro {nan: nan}
+chopped scallions {nan: nan}
+jalepeno pepper {nan: nan}
+toasted sesame seeds {nan: nan}
+Butternut Squash and black bean {nan: nan}
+diced butternut squash  {nan: nan}
+EVOO {nan: nan}
+chipotle pepper in adobo {nan: nan}
+diced red onion {nan: nan}
+black beans {nan: nan}
+cumin {nan: nan}
+avocado {nan: nan}
+cilantro {nan: 1.0}
+tortillas {nan: 8.0}
+lime (garnish) {nan: 1.0}
+Crispy Cauliflower {nan: nan}
+Baked Cauliflower: {nan: nan}
+medium cauliflower {nan: nan}
+full fat coconut milk {nan: nan}
+juice and zest of lime {nan: nan}
+gf breadcrumbs {nan: nan}
+cornmeal  {nan: nan}
+unsweetened coconut {nan: nan}
+paprika {nan: nan}
+turmeric {nan: nan}
+pepper {nan: nan}
+Sweet and Sour Slaw: {nan: nan}
+chopped red cabbage {nan: nan}
+green cabbage {nan: nan}
+shredded carrot {nan: nan}
+juice of lime {nan: nan}
+white vinegar {nan: nan}
+Tangy Vegan Tartar Sauce: {nan: nan}
+diced dill pickle {nan: nan}
+EXTRAS {nan: nan}
+Limes {nan: nan}
+Rice {nan: nan}
+Refried Beans  {nan: nan}
+Chips  {nan: nan}
+Brown Rice Flour {'c': 0.33}
+Tapioca Starch {'c': 0.5}
+non dairy milk {'c': 0.25}
+Subar {'Tbsp': 1.0}
+Pumpkin Spice {'Tsp': 1.5}
+Flax seed {'Tbsp': 2.5}

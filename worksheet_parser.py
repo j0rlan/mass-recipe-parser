@@ -35,6 +35,10 @@ def main():
    for line in shoppingList:
       print(line, shoppingList[line])
 
+   output = pd.DataFrame.from_dict(shoppingList, orient="index")
+
+   output.to_csv("list.csv")
+
 
 
 if __name__ == '__main__':
