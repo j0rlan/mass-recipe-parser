@@ -3,6 +3,7 @@
 # for parsing an xlsx document of multiple recipes and creating a csv file containing the shopping list
 
 import pandas as pd
+import csv
 
 def main():
    #fn = input("input file name: ")
@@ -10,16 +11,21 @@ def main():
    xls = pd.ExcelFile(fn)
    shoppingList = {}
 
-   print("processing sheets:")
    for sheet in xls.sheet_names:
-      #print(sheet)
       df = xls.parse(sheet, skiprows=6)
       rows = df.iterrows()
       while True:
          try:
             ser = next(rows)[1]
+            ser[0] = ser[0].lower()
+            ser[4] = ser[4].lower()
+            ser[3] = ser[3].lower()
          except StopIteration:
             break
+         except AttributeError:
+            pass
+         except IndexError:
+            continue
          try:
             if type(ser[0]) != str:
                continue
@@ -32,13 +38,9 @@ def main():
          except:
             continue
 
-   for line in shoppingList:
-      print(line, shoppingList[line])
-
-   output = pd.DataFrame.from_dict(shoppingList, orient="index")
-
-   output.to_csv("list.csv")
-
+   with open('list.txt', 'w+') as f:
+      for ingredient in shoppingList:
+         f.write(f'{ingredient}: {shoppingList[ingredient]}\n')
 
 
 if __name__ == '__main__':
