@@ -1,6 +1,173 @@
 gluten free pizza dough: {'bag': 1.0}
 hummus: {'c': 0.5}
-hot sauce: {'tbsp': 4.0}
-chickpeas: {'oz': 15.0}
+hot sauce: {'tbsp': 4.0, 'tsp': 19.0}
+chickpeas: {'oz': 15.0, '15 oz can': 1.5}
 vegan mozarella: {'c': 1.5}
-parsley: {'tbsp': 3.0}
+parsley: {'tbsp': 3.0, 'tsp': 4.75}
+pumpkin puree: {'c': 3.5}
+almond milk: {'c': 13.28125}
+coconut oil: {'tbsp': 2.0}
+lemon juice: {'tbsp': 2.5}
+agave: {'tsp': 5.0, 'tbsp': 30.25}
+vanilla extract: {'tsp': 10.125}
+eggs: {'egg': 75.25, 'yolk': 3.0, 'egg (hard boiled)': 23.75}
+oat flour: {'c': 4.25}
+baking soda: {'tsp': 0.5}
+salt: {'tsp': 29.855, 'to taste': 2.375}
+cinnamon: {'tsp': 4.0625}
+nutmeg: {'tsp': 0.25}
+green onion: {'green onion': 23.5, 'c': 1.1875, 'whole': 16.0}
+celery: {'stalk': 17.25, 'c (diced)': 4.75}
+carrot: {'carrot': 3.0, 'c (shredded)': 6.0, 'c (julienned)': 4.0}
+bell pepper (red): {'c': 0.375, 'pepper': 11.875, 'bell pepper (red)': 1.9, 'whole (julienned)': 8.0, 'tsp': 2.0}
+pickle (dill): {'pickle (dill)': 9.0, 'c (diced)': 2.64}
+vegan mayo: {'c': 19.265}
+mustard (dijon): {'tsp': 3.0, 'tbsp': 9.5}
+dill (dried): {'tsp': 12.1875, 'tbsp': 9.5}
+basil (dried): {'tbsp': 3.0}
+gluten free bread: {'loaf': 1.5}
+fritos: {'bag': 1.5}
+grapes: {'lbs': 1.5}
+cashews: {'c': 0.33}
+nutritional yeast: {'tbsp': 12.5, 'c': 0.25}
+garlic: {'clove': 36.7875}
+gluten free pasta: {'oz': 8.0}
+brussels sprouts: {'lbs': 1.0}
+walnuts: {'c': 0.5}
+oregano: {'tsp': 1.95}
+thyme (dried): {'tsp': 0.5}
+crepes: {nan: nan}
+gluten free all purpose flour: {'c': 4.5625, 'tbsp': 3.0}
+xanthum gum: {'tsp': 0.84375}
+granulated sugar: {'tbsp': 2.0}
+butter: {'tbsp (melted)': 10.125, 'tbsp': 14.25, 'tsp': 9.5}
+filling: {nan: nan}
+cornstarch: {'tsp': 2.0}
+sugar: {'c': 0.5, 'tbsp': 7.75}
+huckleberries: {'c': 1.0}
+potato salad: {nan: nan}
+yukon gold potato: {'lb': 23.75}
+relish (sweet): {'c': 4.75}
+apple cider vinegar: {'tbsp': 4.75}
+celery seeds: {'tbsp': 4.75}
+paprika: {'tsp': 27.125}
+sweet onion: {'c': 2.375}
+dill (fresh): {'tbsp (chopped)': 4.75}
+s&p: {'taste': 17.5}
+macaroni salad: {nan: nan}
+elbow macaroni: {'c': 19.0}
+tofu (silken firm): {'c': 4.75}
+black pepper: {'tsp': 1.1875}
+garlic powder: {'tsp': 9.9375}
+white wine vinegar: {'tbsp': 9.5}
+oil: {'tbsp': 24.3, 'tsp': 9.5, 'c': 1.1875}
+mustard (spicy brown): {'tbsp': 4.75}
+water: {'some': 4.75}
+grilled corn: {nan: nan}
+corn: {'ear': 19.0}
+limes: {'lime': 9.5, nan: nan}
+lime juice: {'tbsp': 12.75}
+pine nuts: {'c': 2.375}
+vegan bbq: {nan: nan}
+burgers: {'burger': 19.0}
+brats: {'brat': 19.0}
+hamburger buns: {'bag': 4.75}
+brat buns: {'bag': 3.135}
+ketchup: {'bottle': 1.1875}
+mustard: {'bottle': 1.1875}
+relish: {'jar': 1.1875}
+onion: {'onion': 2.375}
+pickle: {'jar': 0.59375}
+tomato: {'tomato': 11.875}
+egg bake: {nan: nan}
+onions: {'onions': 1.1875}
+mushrooms: {'lb': 1.1875, 'oz': 15.2}
+broccoli : {'broccoli': 1.1875}
+bell pepper (green): {'bell pepper (green)': 1.1875}
+roasted potatoes: {nan: nan}
+russet potatoes: {'russet potatoes': 23.75}
+rosemary: {'tbsp': 0.95}
+white rice: {'c': 2.85}
+chili power: {'tbsp': 0.95}
+zucchini: {'zucchini': 1.9}
+red onion: {'red onion': 1.9, 'c (diced)': 2.64}
+cumin: {'tsp': 16.95}
+tortillas (flour): {'tortillas (flour)': 19.0}
+black beans: {'c': 13.7}
+vegan cheddar: {'c': 4.75}
+cilantro: {'bunch': 4.275, 'c': 4.0, 'handful': 8.0}
+savory crepes: {nan: nan}
+crepe filling: {nan: nan}
+quorn: {'bag': 2.375}
+fresh spinach: {'oz': 9.5}
+quartered artichoke hearts: {'15 oz can': 2.375}
+vegetable broth: {'c': 1.1875}
+sour cream: {'c': 1.1875}
+cream cheese: {'oz': 9.5}
+crushed red pepper: {'pinch': 2.375}
+crispy asparagus: {nan: nan}
+asparagus: {'lbs': 4.75}
+grated parmesan: {'c': 1.1875}
+gluten free bread crumbs: {'c': 1.1875}
+maple glazed carrots: {nan: nan}
+carrots multi color: {'lbs': 4.75}
+brown sugar: {'tbsp': 9.5, 'c': 1.1875, 'tsp': 9.5}
+maple syrup: {'tbsp': 4.75}
+pecans: {'c': 0.59375}
+sweet potato: {'c (mashed)': 9.5}
+baking powder: {'tsp': 9.25}
+rolled oats: {'c': 14.25}
+crumble: {nan: nan}
+pecan: {'c (chopped)': 1.1875}
+peanut butter: {'tbsp': 14.25}
+ginger (fresh): {'tsp': 2.375}
+lime : {'lime': 4.75}
+soy sauce: {'tsp': 9.5, 'c': 2.0}
+rice noodles: {'oz': 38.0}
+red cabbage: {'c': 19.0, 'c (chopped)': 6.0}
+peanuts: {'c': 2.375}
+three sisters taco bar: {nan: nan}
+smoky tofu banh mi: {'makes 6 tacos': nan}
+smoky tofu:: {nan: nan}
+rice vinegar: {'tbsp': 8.0, 'c': 2.64}
+toasted sesame oil: {'tsp': 12.0}
+liquid smoke: {'tsp': 8.0}
+tofu: {'oz': 112.0}
+pickled veggies:: {nan: nan}
+cucumber: {'c (julienned)': 4.0}
+sriracha mayo:: {nan: nan}
+sriracha: {'c': 2.0, 'dash': 8.0}
+tacos:: {nan: nan}
+tortillas: {'tortillas': 112.0}
+mint leaves (fresh): {'c': 4.0}
+basil (fresh): {'c': 4.0}
+jalepeno pepper: {'whole': 16.0}
+toasted sesame seeds: {'cup': 1.6}
+butternut squash and black bean: {'makes 6-8 tacos': nan}
+butternut squash: {'c (diced)': 24.0}
+chipotle pepper in adobo: {'pepper': 8.0}
+avocado: {'avocado': 8.0}
+lime (garnish): {'lime (garnish)': 8.0}
+crispy cauliflower: {'serves 4?': nan}
+baked cauliflower:: {nan: nan}
+medium cauliflower: {'head': 8.0}
+coconut milk (full fat): {'c': 4.0}
+juice and zest of lime: {'juice and zest of lime': 16.0}
+gf breadcrumbs: {'c': 4.0}
+cornmeal : {'c': 4.0}
+unsweetened coconut: {'c': 4.0}
+turmeric: {'tsp': 2.0}
+sweet and sour slaw:: {nan: nan}
+green cabbage: {'c (chopped)': 6.0}
+lime: {'lime (juiced)': 8.0}
+white vinegar: {'tbsp': 8.0}
+tangy vegan tartar sauce:: {nan: nan}
+extras: {nan: nan}
+rice: {nan: nan}
+refried beans : {nan: nan}
+chips : {nan: nan}
+brown rice flour: {'c': 0.99}
+tapioca starch: {'c': 1.5}
+non dairy milk: {'c': 0.75}
+pumpkin spice: {'tsp': 4.5}
+flax seed: {'tbsp': 7.5}

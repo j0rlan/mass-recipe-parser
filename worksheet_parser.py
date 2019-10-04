@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# for parsing an xlsx document of multiple recipes and creating a csv file containing the shopping list
+# for parsing an xlsx document of multiple recipes and creating a file containing the shopping list
 
 import pandas as pd
 import csv
